@@ -82,4 +82,4 @@ The system assigns letter grades based on the calculated Final Score:
 * **Instructor:** Professor Dr. Wajid Arshad Abbasi
 
 ---
-*Developed as part of Assignment #01 for the Analysis of Algorithms/Programming module.*
+*Developed as part of Assignment #01 for the Programming for AI.*
