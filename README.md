@@ -7,6 +7,8 @@
 > A robust, console-based application designed to manage student academic records, calculate complex grades, and visualize performance statistics using Object-Oriented Programming (OOP) principles.
 
 ---
+## 🚀 FlowChart
+<img width="5752" height="4606" alt="Flowchart_Students_Perfomance_Analyzer-2026-01-07-185055" src="https://github.com/user-attachments/assets/ec1b6cdf-8e2e-4b52-8223-297a7090f247" />
 
 ## 🚀 Overview
 
@@ -39,7 +41,7 @@ This project demonstrates proficiency in the following core Computer Science con
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/student-performance-analyzer.git](https://github.com/your-username/student-performance-analyzer.git)
+    git clone [https://github.com/aliraza5101/Student-Performance-Analyzer-Console-Based.git)
     ```
 2.  **Navigate to the directory:**
     ```bash
